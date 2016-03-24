@@ -1,0 +1,129 @@
+Class 1: What is technology?
+Do now: Draw a technology
+What is a technology? Solicit answers. Say it something people created as a tool to do other things. So a computer is a technology we created to make things, talk to people, and be entertained. Ashu is a technology we created to keep our feet safe and warm. Even languages are technologies that we created so we could talk to each other and understand each other.
+Draw a picture of a technology that you have used.
+After a few minutes, I asked if someone wants to say what their technology is and show the picture. How do we think that technology got invented? Did it get invented one day by one person, or by a bunch of people? Did it get invented just all of a sudden or did it take a long time and a lot of work?
+New technologies always work right? They don't, and especially very new technologies often don't work. You can say they mail function.
+When the technology you drew malfunction, what happened?
+Now draw a technology that doesn't exist yet, something you might like to see get invented in the future. Share those. What would happen if they malfunction?
+This is going to be a class about technology, and that means a lot of the things that we're using are new inventions that didn't exist a couple years ago. So do people expect everything is going to go exactly how we planned? No, so if you do something and it doesn't quite work right, don't be sad! It doesn't work because it's new and we're trying to push the envelope. Need better language for this. Try to look at how every malfunction can be surprising, interesting, or even funny. Some of the best inventions ever have come because something didn't work right.
+
+3d name tags: break these out. Blue magnets on to them. How can you get the name tag to stay on your shirt? Give second magnet and see if kids can come up with idea of one magnet in front and one magnet behind their shirt. How do we make peace? Talking about 3d printing and have 3d printing builds up players. Can anyone feel with their finger the lines that are each layer? Can anyone see parts that the 3d printer didn't make perfectly? Plug them into Tinkercad and show them the models, then show them how to change them and bring in new shapes.
+
+Recap:
+We started off by meeting each other, and asking about what a class about "technology" is, anyway! What does "technology" mean? We named technologies we use to communicate with each other, and everyone drew one that they had used. We shared those drawings and then drew our idea for a technology that hasn't been invented yet. We had fun suggesting ways that technologies make mistakes and malfunction, and talked about expecting that technologies will often make mistakes, especially when they're very new!
+
+We got our 3d-printed name tags, and looked closely at them for clues on how they were made. We looked at the designs for them in Tinkercad, a free web-based 3d design tool that kids can use anytime. And we started to experiment with making new shapes and designs, learning how to stretch and combine them.
+
+Class 2: Circuits
+Do now: Pass the squeeze!
+
+EACH part of circuit is equally important; if any one disconnects, whole circuit stops. (So, no, you don't ask get a turn being the battery!)
+
+- squeeze flows from left hand to right hand (like negative to positive)
+- batteries are where squeeze starts and ends; since electricity flows FROM battery's - end, battery people must face OUTWARDS while wires, lights etc face INWARDS
+- squeezing in series
+- break in circuit
+- switch (ask 2 kids to connect, disconnect)
+- short circuit
+- hard vs soft squeezes: just as fast, but less current
+- squeezing in parallel: a circle inside a circle
+
+Main activity: Valentine’s cards
+
+- supplies:
+    - coin cell batteries
+    - LEDs
+    - cardstock
+    - markers/pens
+    - thumbtacks for starting holes
+    - conductive tape: mention need to have wires touch front and back of tape
+    - scissors
+- intro:
+    - make simple circuit on paper together
+    - Draw lines for wires before taping
+    - Draw where is +, - on LED, battery
+    - show loose and firm connections, result of that
+    - Help fold the corners and trace the circles
+- make valentine card circuit
+    - reuse battery
+
+Recap:
+We started off by forming a human circuit, squeezing our right hands (the "positive" side) any time we felt a squeeze in our left hands (the "negative" side). We talked about how batteries send electricity out their negative side, while wires, lights, motor, speakers and other circuit components take electricity in their negative side. We activated our circuit in "series", as one big circle, with each person doing something like making a noise when the electricity squeeze came to them. With two of us acting like batteries, we had double the electric current, so we made noises twice as loud! Then we made a "parallel" circuit, which works the way electric outlets in our house work, by forming two circuit loops of people that shared the same battery.
+
+We made a circuit on paper together using a coin battery, LED lights, and copper tape, being careful to keep track of which direction the electricity would flow through the circuit. Then we made our own light-up Valentine's Day cards! We noticed that the LED wires had to be really well connected to the copper tape for the circuit to work, and we even saw an example of how a short circuit let the electricity take a shortcut to the positive side of the battery without having to light up the LEDs.
+
+Week 3: Sensors
+Do now: sensor brainstorm
+
+- What are the senses that our bodies have?
+- What are some sensors that computers and robots and machines use?
+- Sensor worksheet: connect the sense (eg, sound) to the sensor (eg, microphone) to the result (eg, speaker)
+- Smell sensing: what would a smell sensor do? What would it look like? Are there any sensors that can smell now? (Smoke detectors, in a way)
+
+Main activity: Makey Makey touch sensor
+
+- Try out a simple piano program with Makey Makey
+- Attaching it to fruit to make a fruit piano
+- Making a circuit by holding hands: we need to all be holding hands for it to work!
+- Building things that use a sensor: pillow fort with doorbell
+- Games that use a sensor: Dinosaur jump, by slapping five
+
+Recap:
+We started off by brainstorming types of sensors. What are the sensors that our bodies have? What are some sensors that computers and robots and machines use? We looked at a sensor worksheet with drawings of different kinds of sensors, and connected the senses (eg, sound) to the sensors (eg, microphone) to the results (eg, speaker). We talked about smell sensing and wondered what a smell sensor might do and what it might look like. A few students pointed out that smoke detectors were kind of like smell sensors already!
+
+We played around with a touch sensor called a “Makey Makey”. We attached it to fruit to make a fruit piano, then tried making a circuit to play the piano by holding hands in a circle. We needed to all be holding hands for it to work! We built some things that used a sensor, like a doorbell for a pillow fort, and played games that use a sensor, like Dinosaur Jump, by touching the Makey Makey or making a circuit by slapping five with each other.
+
+Week 4: Programming
+Main activity: Robot Ben
+
+- Making Robot Ben move one square at a time
+- Machines just do what you tell them: what does Robot Ben do if the command doesn’t make sense?
+- Trying out sequences of commands
+- These are called “algorithms” or “programs"
+- It’s totally normal if your sequence doesn’t work and you need to fix it!
+- This is called "debugging"
+- Everyone gets to be a robot, everyone gets to be a programmer
+
+Bonus activity:
+
+- Intro to Pencilcode
+- Loops that do the same thing over and over
+
+We met a strange robot who called himself “Robot Ben" and looked a lot like Ben the teacher. Some students tried to say it actually was been the teacher, but Robot Ben never stopped acting like a robot.
+
+We used cards from the game Robot Turtles to move Robot Ben one square at a time so he could pick up his sunglasses and be a cool robot. We saw that machines do just what you tell them, even if the command doesn’t seem to make sense! We also learned that you have to think from the robot’s perspective, and tell it to do what you would want it to do if you were standing in the same position that it's standing.
+
+We put together sequences of commands, which are called "algorithms" or "programs", and tried to have the robot do the whole sequence in one go. Most of the time, the sequence didn’t work on the first try and we had to fix it! We talked about how this is totally normal, that programmers do this all the time, and it’s called "debugging”. Everyone got to be a robot and everyone got to be a programmer!
+
+Week 5: Artificial Intelligence
+Do now: Can computers think?
+
+- Draw something computers are better than people at doing
+- Draw something people are better than computers at doing
+- What kinds of things can computers do well and what can they not do well?
+- Will they ever do things that make them seem human?
+- How could you tell if you were talking to a computer or a human? By voice? What about if you’re just typing text?
+- The term “artificial intelligence"
+
+Main activity: Turing test
+
+- Prep:
+    - find a website to host a quick chat, or use SMS
+    - choose an automated AI agent like Siri, or an approach like reading the first line of the first result of a Google search
+- Break up into two teams
+- One team asks three questions;  other team answers three times, either writing the responses themselves or using a computer to respond.
+- Repeat,  changing from human to computer or computer to human.
+- Next, switch places and roles, with the team that was asking questions before now answering them and vice versa.
+- Get back together and tell your guesses for which one was human and which one was computer!
+
+We discussed whether computers could think. Can they do things smartly? Can they do all of the same things that people do? What sorts of things are they good at and what sorts of things of a bad at? And how would you be able to tell the difference if you were having a conversation with a computer or with a person?
+
+Next, it was time to put our ideas to the test
+... the "Turing test"
+! We split up into two groups and chatted with each other. One group asked questions, and the other group gave answers: either they gave answers they made up themselves, or they input the questions into a computer and used the answers it gave! That way, each conversation was either with humans or a computer. The group asking questions tried to guess whether they were talking to humans or a computer. There were some big surprises! Sometimes the computer would get confused about “I” and “you”,  and it gave some unexpected answers to questions about its favorite color and whether it had ever driven in a car.
+
+Playing rock paper scissors online
+Observations and take away is after class where we did drink tests colon we should start with a drawing activity where everyone draws one thing computers are better than people at doing, and one thing that humans are better than computers at doing. Next have everyone write down three questions they might ask a computer to tell if it is human or computer. Then do me an activity semicolon need to find better chat interface. Used boa chat but it was sluggish and inconsistent. Finally we could recap and talk about Snopes and show people examples of things that are real and not comma and show artwork that is human generated or computer-generated, and even play a game against a computer AI. Maybe play tic tac toe against the best computer? Or even rock paper scissors?
+
+Week 6: pencilcode
