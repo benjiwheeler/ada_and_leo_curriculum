@@ -4,4 +4,4 @@
 
 | Step | Instructions |
 | --- | --- |
-| I am text to the left | ![Flowers]({{ site.url }}/images/pencilcode/face/step_1_dot.png) |
+| I am text to the left | ![Flowers]({{ site.github.url }}/images/pencilcode/face/step_1_dot.png) |
