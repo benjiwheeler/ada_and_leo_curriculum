@@ -7,8 +7,8 @@
 
 @import "reset";
 @import "variables";
-// currently, DO use bootstrap!
-@import "bootstrap";
+// currently, DON'T use bootstrap!
+//@import "bootstrap";
 
 // Syntax highlighting @import is at the bottom of this file
 
@@ -297,5 +297,6 @@ table {
     border-collapse: separate;
 }
 td {
-  vertical-align:top
+  vertical-align:top;
+  max-width: 500px;
 }
