@@ -12,7 +12,6 @@ Start with a blank Pencil Code project.
 
 | **Code** | **Instructions** |
 | -------- | ---------------- |
- width="36px"}
 | ![Step 1]({{ site.github.url }}/images/pencilcode/face/step_dot_code.png){width="100px"} | 1. Draw a large dot (look in the "Art" section) |
 | ![Step 1]({{ site.github.url }}/images/pencilcode/face/step_dot_result.png){width="100px"} |  |
 | ![Step 2]({{ site.github.url }}/images/pencilcode/face/step_enter_dot_code.png){width="100px"} | 2. Turn right and go forward, to move to where we can draw an eye |
