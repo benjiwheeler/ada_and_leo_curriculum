@@ -83,3 +83,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Changes per http://damonbauer.me/organizing-jekyll-pages/
+include: ["_pages"]
+

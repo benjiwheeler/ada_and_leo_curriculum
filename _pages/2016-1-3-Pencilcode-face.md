@@ -1,3 +1,9 @@
+---
+permalink: "/pencilcode-face/"
+layout: page
+title:  "About Us"
+---
+
 # Pencilcode: Make a face
 
 ### Time: 15-30 minutes

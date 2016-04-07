@@ -1,26 +1,30 @@
+---
+layout: post
+---
+
 Draw a technology
 Time: 20 minutes
 
 Discussion: what is a technology?
-----------------------------------------------
+---------------------------------
 * solicit answers and ideas
 
 Activity: draw a picture of a technology that you have used
-------------------------------------------------------------------------------
+-----------------------------------------------------------
 (after a few minutes:)
 * share pictures
- * hold up pictures
- * who sees a technology they've used?
- * how do we think that technology got invented?
-   * did it get invented one day by one person, or by a bunch of people?
-   * did it get invented just all of a sudden or did it take a long time and a lot of work?
-   * did it change over time?
+    * hold up pictures
+    * who sees a technology they've used?
+    * how do we think that technology got invented?
+        * did it get invented one day by one person, or by a bunch of people?
+        * did it get invented just all of a sudden or did it take a long time and a lot of work?
+        * did it change over time?
 * do new technologies always work right?
- * they "malfunction"
- * when the technology you drew malfunctions, what might happen?
+    * they "malfunction"
+    * when the technology you drew malfunctions, what might happen?
 
 Discussion: what is *not* a technology?
- ---------------------------------------------------
+---------------------------------------
 * are these technologies?:
  * phones
  * cars
