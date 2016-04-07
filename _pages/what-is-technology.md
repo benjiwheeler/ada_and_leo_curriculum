@@ -1,4 +1,5 @@
 ---
+permalink: "/what-is-technology/"
 layout: page
 ---
 

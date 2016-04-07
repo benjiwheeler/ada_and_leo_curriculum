@@ -1,4 +1,5 @@
 ---
+permalink: "/3d-printed-name-tags/"
 layout: page
 title: 3D Printed Nametags
 ---
