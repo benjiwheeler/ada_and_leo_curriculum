@@ -13,9 +13,6 @@ Start with a blank Pencil Code project.
 | **Code** | **Instructions** |
 | -------- | ---------------- |
 | ![Step 1]({{ site.github.url }}/images/pencilcode/face/step_dot_code.png){: width="400px"} | 1. Draw a large dot (look in the "Art" section) |
-
-| **Code** | **Instructions** |
-| -------- | ---------------- |
 | ![Step 1]({{ site.github.url }}/images/pencilcode/face/step_dot_result.png){: width="400px"} |  |
 | ![Step 2]({{ site.github.url }}/images/pencilcode/face/step_enter_dot_code.png){: width="400px"} | 2. Turn right and go forward, to move to where we can draw an eye |
 | ![Step 2]({{ site.github.url }}/images/pencilcode/face/step_enter_dot_result.png){: width="400px"} |  |
@@ -23,6 +20,9 @@ Start with a blank Pencil Code project.
 | ![Step 3]({{ site.github.url }}/images/pencilcode/face/step_eye_result.png){: width="400px"} |  |
 | ![Step 4]({{ site.github.url }}/images/pencilcode/face/step_eye_2_code.png){: width="400px"} | 4. Turn all the way around (180 degrees) so you're pointed back where you came from, take a big step forward, and draw the other eye |
 | ![Step 4]({{ site.github.url }}/images/pencilcode/face/step_eye_2_result.png){: width="400px"} |  |
+
+| **Code** | **Instructions** |
+| -------- | ---------------- |
 | ![Step 5]({{ site.github.url }}/images/pencilcode/face/step_after_eyes_code.png){: width="400px"} | 5. Turn all the way around again, and step forward into the middle of the large circle |
 | ![Step 5]({{ site.github.url }}/images/pencilcode/face/step_after_eyes_result.png){: width="400px"} |  |
 | ![Step 6]({{ site.github.url }}/images/pencilcode/face/step_mouth_pen_code.png){: width="400px"} | 6. Let's get in position to draw the mouth! Turn right so you're pointed downwards, step forward, and set the pen to draw where the turtle goes |
