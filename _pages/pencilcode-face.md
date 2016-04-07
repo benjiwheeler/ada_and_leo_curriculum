@@ -13,10 +13,13 @@ Start with a blank Pencil Code project.
 | **Code** | **Instructions** |
 | -------- | ---------------- |
 | ![Step 1]({{ site.github.url }}/images/pencilcode/face/step_dot_code.png){: width="400px"} | 1. Draw a large dot (look in the "Art" section) |
+
+| **Code** | **Instructions** |
+| -------- | ---------------- |
 | ![Step 1]({{ site.github.url }}/images/pencilcode/face/step_dot_result.png){: width="400px"} |  |
 | ![Step 2]({{ site.github.url }}/images/pencilcode/face/step_enter_dot_code.png){: width="400px"} | 2. Turn right and go forward, to move to where we can draw an eye |
 | ![Step 2]({{ site.github.url }}/images/pencilcode/face/step_enter_dot_result.png){: width="400px"} |  |
-| ![Step 3]({{ site.github.url }}/images/pencilcode/face/step_eye_code.png){: width="400px"} | 3. Draw an eye by drawing a  small dot |
+| ![Step 3]({{ site.github.url }}/images/pencilcode/face/step_eye_code.png){: width="400px"} | 3. Draw an eye by drawing a small dot |
 | ![Step 3]({{ site.github.url }}/images/pencilcode/face/step_eye_result.png){: width="400px"} |  |
 | ![Step 4]({{ site.github.url }}/images/pencilcode/face/step_eye_2_code.png){: width="400px"} | 4. Turn all the way around (180 degrees) so you're pointed back where you came from, take a big step forward, and draw the other eye |
 | ![Step 4]({{ site.github.url }}/images/pencilcode/face/step_eye_2_result.png){: width="400px"} |  |
@@ -31,6 +34,7 @@ Start with a blank Pencil Code project.
 
 Things to try:
 ---------------
+
 | **Code** | **Instructions** |
 | -------- | ---------------- |
 | ![Try ]({{ site.github.url }}/images/pencilcode/face/try_colors_code.png){: width="400px"} | Try changing the colors of the different parts of the face. What color combination is your favorite? What if all the colors are the same? |
@@ -43,10 +47,11 @@ Things to try:
 
 Challenges:
 -------------
+
 | **Code** | **Instructions** |
 | -------- | ---------------- |
-| ![Challenge ]({{ site.github.url }}/images/pencilcode/face/challenge_surprise_result.png){: width="400px"} | Challenge 1: Can you make the face surprised? |
 | ![Challenge ]({{ site.github.url }}/images/pencilcode/face/challenge_nose_result.png){: width="400px"} | Challenge 1: Can you give the face a nose? |
-| ![Challenge ]({{ site.github.url }}/images/pencilcode/face/step_hair_code.png){: width="400px"} | Challenge 1: Can you give the face some hair? Try entering this code and seeing what happens. |
-| ![Challenge ]({{ site.github.url }}/images/pencilcode/face/step_hair_result.png){: width="400px"} |  |
+| ![Challenge ]({{ site.github.url }}/images/pencilcode/face/challenge_surprise_result.png){: width="400px"} | Challenge 2: Can you make the face surprised? |
+| ![Challenge ]({{ site.github.url }}/images/pencilcode/face/step_hair_code.png){: width="400px"} | Challenge 3: Can you give the face some hair? Try entering this code and seeing what happens. |
+
 
