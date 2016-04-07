@@ -6,7 +6,7 @@ title:  "Pencilcode: Make a face"
 
 ### Time: 15-30 minutes
 
-This activity uses the free web-based coding site Pencil Code, at [pencilcode.net].
+This activity uses the free web-based coding site Pencil Code, at [pencilcode.net](pencilcode.net).
 
 Start with a blank Pencil Code project.
 
@@ -30,8 +30,8 @@ Things to try:
 | Try putting a **Speed** block at the beginning. Can you understand what the turtle is doing if the speed is very fast? | ![Try ]({{ site.github.url }}/images/pencilcode/face/try_speed_code.png) |
 | Try changing the pen size! Does it look better when it's large? Or small? | ![Try ]({{ site.github.url }}/images/pencilcode/face/try_pen_size_code.png) |
 | Try changing the size of the eyes! Does the face look weird when they're big? | ![Try ]({{ site.github.url }}/images/pencilcode/face/try_eye_size_code.png) |
-| Try changing the size of the big dot that makes the face at the beginning! Does it look like a baby when it's big? Like an alien when it's small? | ![Try ]({{ site.github.url }}/images/pencilcode/face/try_dot_size_code.png) |
-| This face seems kind of sad, right? Try removing the mouth code from your program (everything under the last **Pen** block) and putting in this code instead. Does that cheer the face up? | ![Try ]({{ site.github.url }}/images/pencilcode/face/try_smile_code.png) |
+| Try changing the size of the big dot that makes the face at the beginning!<p>Does it look like a baby when it's big? Like an alien when it's small? | ![Try ]({{ site.github.url }}/images/pencilcode/face/try_dot_size_code.png) |
+| This face seems kind of sad, right?<p>Try removing the mouth code from your program (everything under the last **Pen** block) and putting in this code instead, starting where it says line #14. <p>Does that cheer the face up? | ![Try ]({{ site.github.url }}/images/pencilcode/face/try_smile_code.png) |
 
 Challenges:
 -------------
@@ -40,6 +40,6 @@ Challenges:
 | ------------------ | ----------- |
 | Challenge 1: Can you give the face a nose? | ![Challenge ]({{ site.github.url }}/images/pencilcode/face/challenge_nose_result.png) |
 | Challenge 2: Can you make the face surprised? | ![Challenge ]({{ site.github.url }}/images/pencilcode/face/challenge_surprise_result.png) |
-| Challenge 3: Can you give the face some hair? Try entering this code and seeing what happens. | ![Challenge ]({{ site.github.url }}/images/pencilcode/face/step_hair_code.png) |
+| Challenge 3: Can you give the face some hair? Try entering this code and seeing what happens. (**pu** picks the pen up, so the turtle won't draw lines where it goes; **pd** puts the pen back down.) | ![Challenge ]({{ site.github.url }}/images/pencilcode/face/step_hair_code.png) |
 
 
