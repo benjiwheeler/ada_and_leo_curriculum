@@ -291,6 +291,11 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
+// BW additions
+table {
+    border-spacing: 10px;
+    border-collapse: separate;
+}
 td {
   vertical-align:top
 }
