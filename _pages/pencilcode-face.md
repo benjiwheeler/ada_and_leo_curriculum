@@ -8,7 +8,7 @@ title:  "Pencilcode: Make a face"
 
 This activity uses the free web-based coding site Pencil Code, at [pencilcode.net](pencilcode.net).
 
-![Step 1]({{ site.github.url }}/images/pencilcode/face/try_smile_result.png){: max-width="200px"}
+![Step 1]({{ site.github.url }}/images/pencilcode/face/try_smile_result.png){: width="200px"}
 
 Start with a blank Pencil Code project.
 
