@@ -109,9 +109,10 @@ strong, b {
   font-weight: bold;
 }
 
-img {
-  max-width: 100%;
-}
+// disabled by BW
+//img {
+//  max-width: 100%;
+//}
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
