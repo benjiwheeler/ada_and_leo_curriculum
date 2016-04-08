@@ -10,6 +10,8 @@ This activity uses the free web-based coding site Pencil Code, at [pencilcode.ne
 
 ![Step 1]({{ site.github.url }}/images/pencilcode/face/try_smile_result.png){: width="200px"}
 
+---
+
 Start with a blank Pencil Code project.
 
 Steps:
