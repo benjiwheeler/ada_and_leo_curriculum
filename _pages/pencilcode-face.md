@@ -8,12 +8,14 @@ title:  "Pencilcode: Make a face"
 
 This activity uses the free web-based coding site Pencil Code, at [pencilcode.net](pencilcode.net).
 
+![Step 1]({{ site.github.url }}/images/pencilcode/face/try_smile_result.png)
+
 Start with a blank Pencil Code project.
 
 | **Instructions** | **Code** | **Result** |
 | ------------------ | ----------- | ------------ |
-| 1. Draw a large dot (look in the "Art" section) | ![Step 1]({{ site.github.url }}/images/pencilcode/face/step_dot_code.png) | ![Step 1]({{ site.github.url }}/images/pencilcode/face/step_dot_result.png) |
-| 2. Turn right and go forward, to move to where we can draw an eye | ![Step 2]({{ site.github.url }}/images/pencilcode/face/step_enter_dot_code.png) | ![Step 2]({{ site.github.url }}/images/pencilcode/face/step_enter_dot_result.png) |
+| 1. Draw a large dot (look in the **Art** section) | ![Step 1]({{ site.github.url }}/images/pencilcode/face/step_dot_code.png) | ![Step 1]({{ site.github.url }}/images/pencilcode/face/step_dot_result.png) |
+| 2. Turn right and go forward using the **rt** and **fd** blocks from the **Move** section. We're  moving to where we can draw an eye! | ![Step 2]({{ site.github.url }}/images/pencilcode/face/step_enter_dot_code.png) | ![Step 2]({{ site.github.url }}/images/pencilcode/face/step_enter_dot_result.png) |
 | 3. Draw an eye by drawing a small dot | ![Step 3]({{ site.github.url }}/images/pencilcode/face/step_eye_code.png) | ![Step 3]({{ site.github.url }}/images/pencilcode/face/step_eye_result.png) |
 | 4. Turn all the way around (180 degrees) so you're pointed back where you came from, take a big step forward, and draw the other eye | ![Step 4]({{ site.github.url }}/images/pencilcode/face/step_eye_2_code.png) | ![Step 4]({{ site.github.url }}/images/pencilcode/face/step_eye_2_result.png) |
 | 5. Turn all the way around again, and step forward into the middle of the large circle | ![Step 5]({{ site.github.url }}/images/pencilcode/face/step_after_eyes_code.png) | ![Step 5]({{ site.github.url }}/images/pencilcode/face/step_after_eyes_result.png) |
