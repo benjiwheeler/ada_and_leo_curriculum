@@ -1,5 +1,5 @@
 ---
-permalink: "/paper-circuits/"
+permalink: "/curriculum/paper-circuits/"
 layout: page
 title:  "Paper Circuits"
 order: 4
