@@ -87,3 +87,7 @@ exclude:
 # Changes per http://damonbauer.me/organizing-jekyll-pages/
 include: ["_pages"]
 
+collections:
+- curriculum
+
+

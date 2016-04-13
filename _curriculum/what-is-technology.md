@@ -1,6 +1,7 @@
 ---
 permalink: "/what-is-technology/"
 layout: page
+order: 1
 ---
 
 Draw a technology

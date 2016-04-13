@@ -1,4 +1,10 @@
-Class 2: Circuits
+---
+permalink: "/human-circuits/"
+layout: page
+title:  "Human Circuits"
+order: 3
+---
+
 Do now: Pass the squeeze!
 
 EACH part of circuit is equally important; if any one disconnects, whole circuit stops. (So, no, you don't ask get a turn being the battery!)

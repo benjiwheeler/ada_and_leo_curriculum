@@ -2,6 +2,7 @@
 permalink: "/paper-circuits/"
 layout: page
 title:  "Paper Circuits"
+order: 4
 ---
 
 ### Time: 45 minutes
