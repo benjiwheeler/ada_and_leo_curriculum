@@ -5,8 +5,6 @@ title: 3D Printed Nametags
 order: 2
 ---
 
-# 3D Printed Nametags
-
 ### Time: 20 minutes
 
  preparation:
