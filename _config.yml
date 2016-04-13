@@ -85,7 +85,7 @@ exclude:
   - CNAME
 
 # Changes per http://damonbauer.me/organizing-jekyll-pages/
-include: ["_pages"]
+include: ["_pages", "_curriculum"]
 
 collections:
 - curriculum
