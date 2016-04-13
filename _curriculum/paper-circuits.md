@@ -1,7 +1,6 @@
 ---
-permalink: "/curriculum/paper-circuits/"
 layout: page
-title:  "Paper Circuits"
+title:  Paper Circuits
 order: 4
 ---
 

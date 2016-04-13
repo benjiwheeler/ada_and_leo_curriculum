@@ -1,7 +1,7 @@
 ---
 permalink: "/pencilcode-face/"
 layout: page
-title:  "Pencilcode: Make a face"
+title: Pencilcode: Make a face
 order: 7
 ---
 
