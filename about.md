@@ -1,15 +1,28 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-Some information about you!
+Ada & Leo
+---------
 
-### More Information
+Ada & Leo is a kids' tech program focused on learning and creativity!
 
-A place to include any other types of information that you'd like to include about yourself.
+The program was founded in 2015 in Brooklyn, New York, by Ben Wheeler.
 
-### Contact me
+This curriculum was developed by Ben, Audrey Fox, Ayodamola Okunseinde, and
+the many students who participated in the program and gave feedback.
 
-[email@domain.com](mailto:email@domain.com)
+The name
+--------
+
+We are called "Ada & Leo" because we see ourselves as creative engineers
+in the tradition of Ada Lovelace (the first computer programmer, who
+envisioned computers becoming creative) and Leonardo da Vinci
+(who mixed art, invention, and design).
+
+Contact us
+----------
+
+[info@adaandleo.com](mailto:info@adaandleo.com)
+
