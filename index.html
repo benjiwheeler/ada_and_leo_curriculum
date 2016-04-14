@@ -5,8 +5,8 @@ layout: default
 <h2>Curriculum:</h2>
 
 <div class="pages">
-  {% include JB/sort_collection collection=site.curriculum sort_by="order" sort_descending=false %}
-  {% for page in sort_result %}
+  {% assign sorted_pages = site.curriculum | sort:"order" %}
+  {% for page in sorted_pages %}
     <article class="page">
       <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
       <div class="entry">
