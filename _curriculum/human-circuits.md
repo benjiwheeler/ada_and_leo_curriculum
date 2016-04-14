@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Human Circuits"
+title: Human Circuits
 order: 3
 ---
 
