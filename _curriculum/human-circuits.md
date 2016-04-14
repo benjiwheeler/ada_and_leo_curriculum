@@ -1,5 +1,4 @@
 ---
-permalink: "/human-circuits/"
 layout: page
 title:  "Human Circuits"
 order: 3

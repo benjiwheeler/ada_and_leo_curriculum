@@ -1,5 +1,4 @@
 ---
-permalink: "/curriculum/what-is-technology/"
 layout: page
 title: What is technology?
 order: 1

@@ -85,9 +85,12 @@ exclude:
   - CNAME
 
 # Changes per http://damonbauer.me/organizing-jekyll-pages/
-include: ["_pages", "_curriculum"]
+# note that if you include a collection, it sort of messes up
+include: ["_pages"]
 
 collections:
-- curriculum
+  curriculum:
+    # necessary to make pages in this collection generate
+    output: true
 
 
