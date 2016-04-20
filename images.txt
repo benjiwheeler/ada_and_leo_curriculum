@@ -1,0 +1,30 @@
+./
+../
+.DS_Store
+Screen Shot 2016-04-09 at 3.59.59 AM.png
+Screen Shot 2016-04-09 at 4.19.34 AM.png
+step_3_code.png
+step_another_if_code.png
+step_another_x_code.png
+step_complete_code.png
+step_explanation_code.png
+step_explanation_result.png
+step_explodingghost_result.png
+step_friendlytiger_result.png
+step_hungryrobot_result.png
+step_hungrytiger_result.png
+step_if_code.png
+step_if_thing_code.png
+step_random_code.png
+step_robot_result.png
+step_thing_code.png
+step_third_if_code.png
+step_tiger_result.png
+step_write_about_code.png
+step_write_code.png
+step_write_plus_code.png
+step_write_plus_plus_code.png
+step_write_plus_plus_done_code.png
+step_write_space_code.png
+step_x_code.png
+step_y_code.png
