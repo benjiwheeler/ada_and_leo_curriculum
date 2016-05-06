@@ -11,6 +11,7 @@ Preparation:
 -----------------------------------
 * print the nametags
 * set up student accounts in Tinkercad
+* login student Chromebooks to Tinkercad accounts
 
 Examining the nametags
 ----------------------------------------------
