@@ -5,7 +5,7 @@ order: 1
 ---
 
 Draw a technology
-Time: 20 minutes
+Time: 20-30 minutes
 
 Discussion: what is a technology?
 ---------------------------------
@@ -69,7 +69,27 @@ Activity: draw a technology that doesn't exist yet
  * who sees a technology they would like to try?
  * what would happen if they malfunction?
 
-Technology in this class
+Conclusion: "Great malfunction!"
+--------------------------------------
+Explain to students that:
+* this is going to be a class about technology
+* that means we're using new inventions that didn't exist a few years ago
 
-This is going to be a class about technology, and that means a lot of the things that we're using are new inventions that didn't exist a couple years ago. So do people expect everything is going to go exactly how we planned? No, so if you do something and it doesn't quite work right, don't be sad! It doesn't work because it's new and we're trying to push the envelope. Need better language for this. Try to look at how every malfunction can be surprising, interesting, or even funny. Some of the best inventions ever have come because something didn't work right.
+Ask:
+* do people expect everything is going to go exactly how we planned? (No!)
+
+Explain:
+* if you do something and it doesn't quite work right, don't be sad!
+* the things we make with new technology don't work perfectly because we're trying new things
+* malfunctions can be:
+ * frustrating, but also...
+ * surprising
+ * interesting
+ * even funny!
+ * we can learn from every malfunction.
+* some of the best inventions ever have come because something didn't work right
+
+Motto:
+* "Great malfunction! What can we learn from it?"
+
 
