@@ -4,7 +4,6 @@ title: What is technology?
 order: 1
 ---
 
-Draw a technology
 Time: 20-30 minutes
 
 Discussion: what is a technology?
@@ -72,13 +71,16 @@ Activity: draw a technology that doesn't exist yet
 Conclusion: "Great malfunction!"
 --------------------------------------
 Explain to students that:
+
 * this is going to be a class about technology
 * that means we're using new inventions that didn't exist a few years ago
 
 Ask:
+
 * do people expect everything is going to go exactly how we planned? (No!)
 
 Explain:
+
 * if you do something and it doesn't quite work right, don't be sad!
 * the things we make with new technology don't work perfectly because we're trying new things
 * malfunctions can be:
@@ -90,6 +92,7 @@ Explain:
 * some of the best inventions ever have come because something didn't work right
 
 Motto:
+
 * "Great malfunction! What can we learn from it?"
 
 

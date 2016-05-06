@@ -15,6 +15,7 @@ Preparation:
 Examining the nametags
 ----------------------------------------------
 Ask:
+
 * what are these?
 * how were they made?
 * what do you notice about them?
@@ -26,10 +27,12 @@ Ask:
 Discussion: 3D printing
 ----------------------------------
 Ask:
+
 * has anyone heard of 3D printing?
 * what could 3D printing be?
 
 Explain:
+
 * normal printing works by putting a line of letters on paper, then another line of letters, then another line of letters, until it's built up a whole page of letters
 * 3D printing works by squirting out a thin layer of melted plastic, then another thin layer on top, then another, until it's built up a whole object
 
@@ -58,9 +61,11 @@ Allow students to experiment with ways to wear the nametags.
 Introduction: Tinkercad
 --------------------
 Ask:
+
 * want to see how we made these?
 
 Explain:
+
 * we used a website called Tinkercad, that kids and adults use
 * you can change your nametag design
 * or, you can make whatever object you want
@@ -84,6 +89,7 @@ Explain:
 Activity: Tinkercad
 ----------------------
 Demonstrate:
+
 * dragging using the trackpad
  * press with one finger, without moving while you press
  * move while pressing
