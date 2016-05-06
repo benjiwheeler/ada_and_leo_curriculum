@@ -9,7 +9,7 @@ Do now: Pass the squeeze!
 EACH part of circuit is equally important; if any one disconnects, whole circuit stops. (So, no, you don't ask get a turn being the battery!)
 
 - squeeze flows from left hand to right hand (like negative to positive)
-- batteries are where squeeze starts and ends; since electricity flows FROM battery's - end, battery people must face OUTWARDS while wires, lightsnnnnnnnnnnnnnnnnnnn etc face INWARDS
+- batteries are where squeeze starts and ends; since electricity flows FROM battery's - end, battery people must face OUTWARDS while wires, lights etc face INWARDS
 - squeezing in series
 - break in circuit
 - switch (ask 2 kids to connect, disconnect)
