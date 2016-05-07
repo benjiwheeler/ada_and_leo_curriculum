@@ -34,7 +34,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $raleway;
   color: $darkerGray;
   font-weight: bold;
 
@@ -198,7 +198,7 @@ strong, b {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $raleway;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -217,7 +217,7 @@ strong, b {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $raleway;
   font-size: 18px;
 
   @include mobile {
