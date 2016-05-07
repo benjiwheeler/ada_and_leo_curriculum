@@ -21,9 +21,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: #506;
   font: 18px/1.4 $raleway;
-  color: $darkGray;
+  color: $dee;
 }
 
 .container {
@@ -35,8 +35,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $raleway;
-  color: $darkerGray;
-  font-weight: bold;
+  color: #fe9;
+  font-weight: 800;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -49,8 +49,9 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  font-weight: 800;
   a {
-    color: inherit;
+    color: #aef;
   }
 }
 
@@ -206,7 +207,7 @@ strong, b {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #c8b;
   font-size: 16px;
 
   @include mobile {
