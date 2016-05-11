@@ -94,7 +94,7 @@ Demonstrate:
 * dragging using the trackpad
  * press with one finger, without moving while you press
  * move while pressing
-* using the menu on the right of the screen to get shapes such as cubes and cylindars
+* using the menu on the right of the screen to get shapes such as cubes and cylinders
 * clicking on shapes and resizing them
 * moving shapes up and down
 * rotating the view
