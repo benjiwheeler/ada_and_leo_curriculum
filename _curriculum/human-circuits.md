@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Human Circuits
+section: circuits
 order: 3
 ---
 

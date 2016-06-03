@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Paper Circuits
+section: circuits
 order: 4
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: What is Artificial Intelligence?
+section: computers
 order: 5
 ---
 

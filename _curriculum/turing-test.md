@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Turing test
+section: computers
 order: 6
 ---
 
