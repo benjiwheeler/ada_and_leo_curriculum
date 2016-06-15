@@ -1,7 +1,5 @@
-# Ada & Leo Curriculum
-Creative tech curriculum for kids
+Ada & Leo kids' technology curriculum
 
-See: adaandleo.com
+branch: **master**
 
-License: Creative Commons Attribution/ShareAlike 4.0
-https://creativecommons.org/licenses/by-sa/4.0/
+***this branch is not currently used. Instead, visit or check out the **gh-pages** branch.***
