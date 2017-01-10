@@ -5,7 +5,9 @@ section: circuits
 order: 4
 ---
 
-### Time: 45 minutes
+### Creating circuit art with simple components: paper, wire, battery, LEDs
+
+### Time: 45-75 minutes
 
 Summary:
 --------

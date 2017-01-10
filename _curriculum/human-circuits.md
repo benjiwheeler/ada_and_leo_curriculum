@@ -5,18 +5,68 @@ section: circuits
 order: 3
 ---
 
-Do now: Pass the squeeze!
+### To introduce the concept of an electric circuit, we model one with our bodies
 
-EACH part of circuit is equally important; if any one disconnects, whole circuit stops. (So, no, you don't ask get a turn being the battery!)
+### Time: 15-30 minutes
 
-- squeeze flows from left hand to right hand (like negative to positive)
-- batteries are where squeeze starts and ends; since electricity flows FROM battery's - end, battery people must face OUTWARDS while wires, lights etc face INWARDS
-- squeezing in series
-- break in circuit
-- switch (ask 2 kids to connect, disconnect)
-- short circuit
-- hard vs soft squeezes: just as fast, but less current
-- squeezing in parallel: a circle inside a circle
+Summary:
+-----------------------------------
+Students and teachers form a circle and hold hands.
+
+They pass the squeeze to represent the movement of electricity through a circuit.
+
+Focus is given to the concepts of positive and negative.
+
+Form a circle: (10-15 minutes)
+--------------------------------
+Assign each child a role
+
+* wires
+* lights
+* motors
+* speakers
+
+In addition, have one child perform the role of a battery.
+
+Emphasize:
+
+The battery is very important! It's where electricity is stored. It gives power to the circuit.
+
+Explain:
+
+Each person's LEFT hand represents their NEGATIVE side.
+
+Each person's RIGHT hand represents their POSITIVE side.
+
+* for batteries:
+  * electricity comes OUT of the NEGATIVE side
+  * electricity goes IN to the POSITIVE side
+* for all the other components of a circuit:
+  * including:
+    * wires
+    * lights
+    * motors
+    * speakers
+    * etc.
+  * electricity goes IN to the NEGATIVE side
+  * electricity comes OUT of the POSITIVE side
+
+Ask the battery to begin passing the squeeze.
+
+
+
+
+
+Each part of circuit is equally important; if any one disconnects, whole circuit stops.
+
+* squeeze flows from left hand to right hand (like negative to positive)
+* batteries are where squeeze starts and ends; since electricity flows FROM battery's - end, battery people must face OUTWARDS while wires, lights etc face INWARDS
+* squeezing in series
+* break in circuit
+* switch (ask 2 kids to connect, disconnect)
+* short circuit
+* hard vs soft squeezes: just as fast, but less current
+* squeezing in parallel: a circle inside a circle
 
 
 Recap:
