@@ -1,6 +1,7 @@
 ---
 layout: page
 title: What is technology?
+section: general
 order: 1
 ---
 

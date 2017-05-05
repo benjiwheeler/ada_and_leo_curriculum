@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Pencilcode: Make a face"
+section: programming
 order: 7
 ---
 
