@@ -1,0 +1,39 @@
+Status of my curriculum writing:
+Need to work on which standards these relate to
+
+misc:
+need to incorporate misc.txt
+need to look over this list and see if there's any other things I'm forgetting!  may be looking Evernote again
+
+general:
+what is technology? - present, needs light revision
+
+
+3d printing:
+3D printed name tags - present, needs light revision
+first 3D design - not clear why it's in the wrong place, needs revision?
+city X -  need to write stub
+
+circuitry:
+circuitry equipment list - present, needs heavy revision
+human circuits - present, needs light revision
+quiz circuit - present, needs heavy revision
+splitting water - present, needs heavy revision
+paper circuits - present, needs heavy revision
+Makey Makey intro -  need to write stub
+Mickey Mickey paper controllers -  need to write stub
+
+programming:
+pencil code face - present, needs review
+scratch: need to think through how to incorporate what I've developed
+sushi platformer level creation - need to figure out how to write up this sort of thing
+
+computers: (category title? AI?)
+Turing test - present, needs heavy revision
+what is ai? - present, needs light revision
+the Internet game -  need to write stub
+intro to VR: panoform, cardboard - need to write stub
+
+history:
+capsule biographies
+which names I've used
